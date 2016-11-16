@@ -57,5 +57,6 @@ public class SimpleMessageBean implements MessageListener {
 
     private void helloMessageBean(){
         System.out.println("helloMessageBean");
+        System.out.println("helloMessageBean");
     }
 }
