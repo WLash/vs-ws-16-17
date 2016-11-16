@@ -70,4 +70,8 @@ public class Sender {
             }
         }
     }
+
+    private void nonsense(){
+        System.out.println("nonsense");
+    }
 }
