@@ -54,4 +54,8 @@ public class SimpleMessageBean implements MessageListener {
             te.printStackTrace();
         }
     }
+
+    private void helloMessageBean(){
+        System.out.println("helloMessageBean");
+    }
 }
